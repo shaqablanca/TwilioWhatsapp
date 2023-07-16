@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Desktop/Projects/CSharp/WhatsAppMessage/WhatsAppMessage/WhatsAppMessage.csproj": {}
+    "/Users/mac/Desktop/Projects/CSharp/WhatsAppMessage/TwilioWhatsapp/WhatsAppMessage/WhatsAppMessage.csproj": {}
   },
   "projects": {
-    "/Users/mac/Desktop/Projects/CSharp/WhatsAppMessage/WhatsAppMessage/WhatsAppMessage.csproj": {
+    "/Users/mac/Desktop/Projects/CSharp/WhatsAppMessage/TwilioWhatsapp/WhatsAppMessage/WhatsAppMessage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Desktop/Projects/CSharp/WhatsAppMessage/WhatsAppMessage/WhatsAppMessage.csproj",
+        "projectUniqueName": "/Users/mac/Desktop/Projects/CSharp/WhatsAppMessage/TwilioWhatsapp/WhatsAppMessage/WhatsAppMessage.csproj",
         "projectName": "WhatsAppMessage",
-        "projectPath": "/Users/mac/Desktop/Projects/CSharp/WhatsAppMessage/WhatsAppMessage/WhatsAppMessage.csproj",
+        "projectPath": "/Users/mac/Desktop/Projects/CSharp/WhatsAppMessage/TwilioWhatsapp/WhatsAppMessage/WhatsAppMessage.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Desktop/Projects/CSharp/WhatsAppMessage/WhatsAppMessage/obj/",
+        "outputPath": "/Users/mac/Desktop/Projects/CSharp/WhatsAppMessage/TwilioWhatsapp/WhatsAppMessage/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.nuget/NuGet/NuGet.Config"
