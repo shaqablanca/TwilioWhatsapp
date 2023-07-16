@@ -13,7 +13,7 @@ class Program
         const string authToken = "65c....................df9147a42";
 
         TwilioClient.Init(accountSid, authToken);
-        string groupId = "https://chat.whatsapp.com/HlWuCxKgIxm3N1IRXsKn7F";  // WhatsApp group ID and 
+        string groupId = "https://chat.whatsapp.com/HlWuCxKg..........Kn7F";  // WhatsApp group ID and 
         string receiverNumber = "+905......511";// the receiver's phone number
 
         // Retrieve the group participants
